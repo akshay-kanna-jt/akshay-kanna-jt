@@ -1,5 +1,7 @@
 ## Hi there i'm Akshay Kanna👋
 
+## Mobile App developer | Full Stack Developer | MCA Aspirant
+
 <!--
 **AkshayKanna47/AkshayKanna47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
