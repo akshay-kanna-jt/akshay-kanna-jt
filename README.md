@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Kanna</h1>
+<h1 align="center">Hi 👋, I'm Akshay Kanna</h1> 
 <h3 align="center">A passionate Mobile App and Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kanna-jt&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-kanna-jt" /> </p>
