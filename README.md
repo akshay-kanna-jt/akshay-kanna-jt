@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI/ML and MERN Stack projects**
 
-- 🌱 I’m currently learning **AI/ML**  
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Flutter, react and Firebase**
 
